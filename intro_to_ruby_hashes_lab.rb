@@ -6,10 +6,10 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-  hash = {
-    key
+  monopoly = {
+    :railroads => {pieces: }
   }
-  return hash
+  return monopoly
 end
 
 def monopoly_with_third_tier
