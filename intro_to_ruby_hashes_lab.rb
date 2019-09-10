@@ -1,6 +1,6 @@
 def base_hash
   hash = {
-    key
+    "railroads" => {}
   }
   return hash
 end
