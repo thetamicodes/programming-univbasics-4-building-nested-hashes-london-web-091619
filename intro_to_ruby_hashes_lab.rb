@@ -1,5 +1,5 @@
 def base_hash
-  hash = {}
+  hash = {key}
   return hash
 end
 
