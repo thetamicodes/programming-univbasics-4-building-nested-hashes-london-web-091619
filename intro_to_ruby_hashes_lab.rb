@@ -1,5 +1,5 @@
 def base_hash
-  hash = {
+  monopoly = {
     "railroads" => {}
   }
   return hash
